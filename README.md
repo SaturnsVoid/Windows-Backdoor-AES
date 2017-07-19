@@ -6,6 +6,11 @@ Data in encrypted in AES, The KEY is auto generated on first connect.
 This is a Command Prompt backdoor.
 Send command "exit" to have the backdoor close.
 
+
+# Video
+Youtube: https://www.youtube.com/watch?v=y4eDgwFJkFY
+*Not much to see, just a peek at it.
+
 # Terms of Use
 
 	* Do NOT use this on any computer you do not own, or are allowed to run this on.
