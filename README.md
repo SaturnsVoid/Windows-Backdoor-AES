@@ -11,6 +11,13 @@ Send command "exit" to have the backdoor close.
 Youtube: https://www.youtube.com/watch?v=y4eDgwFJkFY
 *Not much to see, just a peek at it.
 
+# Compile
+	
+	* go build main.go
+	* go build -o backdoor.exe -ldflags "-H windowsgui" "client.go"
+	
+The client will have no window and run in the background.
+
 # Terms of Use
 
 	* Do NOT use this on any computer you do not own, or are allowed to run this on.
